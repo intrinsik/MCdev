@@ -1,0 +1,8 @@
+D:\DEV\DbToPDF\DbToPDF\bin\Debug\DbToPDF.exe
+D:\DEV\DbToPDF\DbToPDF\bin\Debug\DbToPDF.exe.config
+D:\DEV\DbToPDF\DbToPDF\bin\Debug\itextsharp.dll
+D:\DEV\DbToPDF\DbToPDF\bin\Debug\itextsharp.xml
+D:\DEV\DbToPDF\DbToPDF\obj\Debug\DbToPDF.exe
+D:\DEV\DbToPDF\DbToPDF\obj\Debug\DbToPDF.pdb
+D:\DEV\DbToPDF\DbToPDF\bin\Debug\DbToPDF.pdb
+D:\DEV\DbToPDF\DbToPDF\obj\Debug\DbToPDF.csprojResolveAssemblyReference.cache

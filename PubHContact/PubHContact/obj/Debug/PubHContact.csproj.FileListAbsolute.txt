@@ -1,0 +1,6 @@
+D:\DEV\PubHContact\PubHContact\bin\PubHContact.dll.config
+D:\DEV\PubHContact\PubHContact\bin\PubHContact.dll
+D:\DEV\PubHContact\PubHContact\bin\PubHContact.pdb
+D:\DEV\PubHContact\PubHContact\obj\Debug\PubHContact.csprojResolveAssemblyReference.cache
+D:\DEV\PubHContact\PubHContact\obj\Debug\PubHContact.dll
+D:\DEV\PubHContact\PubHContact\obj\Debug\PubHContact.pdb

@@ -1,0 +1,6 @@
+D:\DEV\ZipInOut\ZipInOut\bin\Debug\ZipInOut.exe.config
+D:\DEV\ZipInOut\ZipInOut\bin\Debug\ZipInOut.exe
+D:\DEV\ZipInOut\ZipInOut\bin\Debug\ZipInOut.pdb
+D:\DEV\ZipInOut\ZipInOut\obj\Debug\ZipInOut.csprojResolveAssemblyReference.cache
+D:\DEV\ZipInOut\ZipInOut\obj\Debug\ZipInOut.exe
+D:\DEV\ZipInOut\ZipInOut\obj\Debug\ZipInOut.pdb
